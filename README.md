@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a self-taught front-end developer fueled by my love for programming.</h3>
 
-- 💻 Tech Stack: React | Next.js | Vue | Nuxt | TypeScript | JavaScript | Rust | Python.
+- 💻 Tech Stack: React | Next.js | Vue | Nuxt.js | TypeScript | JavaScript | Rust | Python.
 
 - 📮 Contact: Email: six.django@gmail.com
 
