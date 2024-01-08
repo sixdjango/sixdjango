@@ -9,4 +9,4 @@
 - 📖 Currently Learning: Rust | Python | Design.
 
 
-![django's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sixdjango&layout=compact&card_width=800)
+![django's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sixdjango&layout=compact&card_width=800&theme=buefy)
