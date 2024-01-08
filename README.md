@@ -9,5 +9,5 @@
 - 📖 Currently Learning: Rust | Python | Design.
 
 
-[![django's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sixdjango&layout=compact&card_width=1000&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![django's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sixdjango&layout=compact&card_width=1000&theme=buefy)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![django's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sixdjango&layout=compact&card_width=1000&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![django's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sixdjango&layout=compact&card_width=1000&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
