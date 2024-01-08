@@ -6,4 +6,4 @@
 
 - 📮 Contact: Email: six.django@gmail.com
 
-![django's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sixdjango&layout=compact&card_width=100%)
+![django's github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sixdjango&layout=compact&card_width=800)
